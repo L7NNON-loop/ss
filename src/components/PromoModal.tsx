@@ -67,7 +67,7 @@ const PromoModal = () => {
           <button
             onClick={() => {
               close("aviso", 40000);
-              window.open("https://chat.whatsapp.com/KTUchKsM5IWFW69ttbu2RK?mode=gi_t", "_blank");
+              window.open("https://chat.whatsapp.com/KuYRqGq8291Jw4c1mXBwH7?mode=gi_t", "_blank");
             }}
             className="w-full bg-primary text-primary-foreground rounded-lg py-4 font-bold uppercase text-[15px] tracking-wide shadow-[0_0_15px_hsl(var(--primary)/0.4)] animate-heartbeat hover:brightness-110 transition-all"
           >
@@ -106,7 +106,7 @@ const PromoModal = () => {
               onClick={() => {
                 close("whatsapp", 180000);
                 const msg = encodeURIComponent("Gostaria de obter a versão paga do Bot 100%");
-                window.open(`https://wa.me/258871009140?text=${msg}`, "_blank");
+                window.open(`https://wa.me/258856130887?text=${msg}`, "_blank");
               }}
               className="flex-1 bg-destructive text-destructive-foreground rounded-lg py-3.5 font-semibold uppercase text-sm hover:brightness-110 transition-all"
             >
